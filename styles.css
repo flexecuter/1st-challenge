@@ -19,7 +19,7 @@
 }
 .bordered-image {
   border-radius: 10px;
-  width: 200px; /* Ensure the image scales properly */
+  width: 200px; 
   height: auto;
 }
 .image-caption-1 {
