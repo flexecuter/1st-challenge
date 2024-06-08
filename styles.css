@@ -1,0 +1,27 @@
+.background {
+    background-color: hsl(208, 100%, 92%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .padded-container {
+    padding: 10px 10px 150px;
+    background-color: white; 
+    border-radius: 15px; 
+     
+  }
+  
+  .bordered-image {
+    border-radius: 10px;
+    width: 200px; /* Ensure the image scales properly */
+    height: auto;
+    
+  }
